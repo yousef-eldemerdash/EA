@@ -1,7 +1,7 @@
 import numpy as np
 import random
 import Classes
-
+import Data
 
 class Timetable:
     def __init__(self, position):
